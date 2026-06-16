@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**M-AminRaedi/M-AminRaedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammad Amin Raedi
 
-Here are some ideas to get you started:
+### Frontend Engineer • React • Next.js • TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable web applications, performant user interfaces, and maintainable frontend architectures.
+
+<p>
+  <a href="https://aminraedi.ir">🌐 Portfolio</a> •
+  <a href="https://linkedin.com/in/m-aminreadi">💼 LinkedIn</a> •
+</p>
+
+</div>
+
+---
+
+##  About Me
+
+Frontend Engineer passionate about building scalable, maintainable, and high-performance web applications.
+
+I enjoy solving real-world frontend challenges, improving user experience, and creating clean architectures that remain simple as products grow.
+
+---
+
+##  Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,nextjs,ts,tailwind,redux,git,github,figma,photoshop" />
+</p>
+
+---
+
+##  Current Focus
+
+* Frontend Architecture
+* Design Systems
+* Performance Optimization
+* React & Next.js Ecosystem
+* Building Better Developer Experience (DX)
+
+---
+
+##  What I Care About
+
+* Clean & Maintainable Code
+* Scalable Frontend Architecture
+* Performance-First Development
+* Accessible User Interfaces
+* Continuous Learning
+
+---
+
+## 🤝 Connect With Me
+
+🌐 Portfolio: **aminraedi.ir**
+
+💼 LinkedIn: **linkedin.com/in/m-aminreadi**
+
+
+---
+
+<div align="center">
+
+*"Simplicity is not the absence of complexity, it's the mastery of it."*
+
+</div>
