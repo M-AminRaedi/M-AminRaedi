@@ -27,45 +27,35 @@ I enjoy solving real-world frontend challenges, improving user experience, and c
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top">
-
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery" />
-
-</td>
-
-<td valign="top">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery" />
+</p>
 
 ### Styling
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+</p>
 
-</td>
-</tr>
+### State Management
 
-<tr>
-<td valign="top">
+<p>
+  <img src="https://skillicons.dev/icons?i=redux" />
+</p>
 
-### Tools
+### Tools & Version Control
 
-<img src="https://skillicons.dev/icons?i=git,github,redux" />
-
-</td>
-
-<td valign="top">
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
 ### Design
 
-<img src="https://skillicons.dev/icons?i=figma,photoshop" />
-
-</td>
-</tr>
-</table>
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
 
 ##  Current Focus
 
