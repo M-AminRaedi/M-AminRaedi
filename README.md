@@ -28,7 +28,7 @@ I enjoy solving real-world frontend challenges, improving user experience, and c
 <p>
   <img src="https://skillicons.dev/icons?i=html" />
 </p>
-###Styling
+### Styling
 <p>
   <img src="https://skillicons.dev/icons?i=css,bootstrap,tailwind" />
 </p>
