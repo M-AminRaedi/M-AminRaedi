@@ -8,14 +8,14 @@ Building scalable web applications, performant user interfaces, and maintainable
 
 <p>
   <a href="https://aminraedi.ir">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/m-aminreadi">💼 LinkedIn</a> •
+  <a href="https://linkedin.com/in/m-aminreadi">💼 LinkedIn</a>
 </p>
 
 </div>
 
 ---
 
-##  About Me
+## About Me
 
 Frontend Engineer passionate about building scalable, maintainable, and high-performance web applications.
 
@@ -25,56 +25,43 @@ I enjoy solving real-world frontend challenges, improving user experience, and c
 
 ## Tech Stack
 
-### Markup & Styling
+### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery,redux" />
 </p>
 
-### JavaScript Ecosystem
+### UI & Styling
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,jquery,react,nextjs,ts,redux" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
 </p>
 
-### Version Control
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,photoshop" />
 </p>
 
-### Design Tools
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
-
-##  Current Focus
+## Current Focus
 
 * Frontend Architecture
 * Design Systems
 * Performance Optimization
 * React & Next.js Ecosystem
-* Building Better Developer Experience (DX)
+* Developer Experience (DX)
 
 ---
 
-##  What I Care About
+## What I Care About
 
 * Clean & Maintainable Code
 * Scalable Frontend Architecture
 * Performance-First Development
 * Accessible User Interfaces
 * Continuous Learning
-
----
-
-## 🤝 Connect With Me
-
-🌐 Portfolio: **aminraedi.ir**
-
-💼 LinkedIn: **linkedin.com/in/m-aminreadi**
-
 
 ---
 
