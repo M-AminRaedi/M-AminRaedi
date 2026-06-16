@@ -1,4 +1,4 @@
-<div align="center">
+[<div align="center">
 
 # Mohammad Amin Raedi
 
@@ -85,3 +85,4 @@ I enjoy solving real-world frontend challenges, improving user experience, and c
 *"Simplicity is not the absence of complexity, it's the mastery of it."*
 
 </div>
+](https://github.com/M-AminRaedi/M-AminRaedi/edit/main/README.md)
