@@ -38,7 +38,7 @@ I enjoy solving real-world frontend challenges, improving user experience, and c
 ### JavaScript Ecosystem
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,jquery,react,nextjs,ts,redux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux" />
 </p>
 
 ### Version Control
