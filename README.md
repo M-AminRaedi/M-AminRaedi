@@ -2,7 +2,7 @@
 
 # Mohammad Amin Raedi
 
-### Frontend Engineer • React • Next.js • TypeScript
+### Frontend Developer • React • Next.js • TypeScript
 
 Building scalable web applications, performant user interfaces, and maintainable frontend architectures.
 
