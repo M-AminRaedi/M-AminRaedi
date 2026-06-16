@@ -25,9 +25,45 @@ I enjoy solving real-world frontend challenges, improving user experience, and c
 
 ##  Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind       js,jquery,react,nextjs,ts,         ,redux,git,github,    figma,photoshop" />
-</p>
+## Tech Stack
+
+<table>
+<tr>
+<td valign="top">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,jquery" />
+
+</td>
+
+<td valign="top">
+
+### Styling
+
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind" />
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,redux" />
+
+</td>
+
+<td valign="top">
+
+### Design
+
+<img src="https://skillicons.dev/icons?i=figma,photoshop" />
+
+</td>
+</tr>
+</table>
 
 ---
 
