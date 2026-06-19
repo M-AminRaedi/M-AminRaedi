@@ -1,0 +1,101 @@
+<svg width="680" height="420" viewBox="0 0 680 420" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <defs>
+    <clipPath id="round"><rect width="680" height="420" rx="12"/></clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="420" rx="12" fill="#f8f9fb"/>
+  <rect width="680" height="420" rx="12" fill="none" stroke="#e0e6ef" stroke-width="1"/>
+
+  <!-- Hero section top accent line -->
+  <rect x="0" y="0" width="680" height="3" rx="0" fill="#185FA5"/>
+
+  <!-- Tag pill -->
+  <rect x="32" y="32" width="132" height="22" rx="11" fill="#E6F1FB"/>
+  <text x="98" y="47" font-size="11" font-weight="600" fill="#185FA5" text-anchor="middle" letter-spacing="0.07em" font-family="'Segoe UI', sans-serif">FRONTEND DEVELOPER</text>
+
+  <!-- Name -->
+  <text x="32" y="96" font-size="34" font-weight="400" fill="#1a1a2e" letter-spacing="-0.02em">Mohammad Amin </text>
+  <text x="352" y="96" font-size="34" font-weight="500" fill="#185FA5" letter-spacing="-0.02em">Raedi</text>
+
+  <!-- Description -->
+  <text x="32" y="124" font-size="13.5" fill="#6b7280" letter-spacing="0.01em">Building scalable web apps, performant UIs, and maintainable frontend architectures.</text>
+
+  <!-- Links -->
+  <rect x="32" y="140" width="130" height="30" rx="7" fill="#fff" stroke="#d1d9e6" stroke-width="0.8"/>
+  <text x="97" y="159" font-size="12.5" fill="#374151" text-anchor="middle" font-weight="500">🌐  aminraedi.ir</text>
+
+  <rect x="172" y="140" width="130" height="30" rx="7" fill="#fff" stroke="#d1d9e6" stroke-width="0.8"/>
+  <text x="237" y="159" font-size="12.5" fill="#374151" text-anchor="middle" font-weight="500">💼  LinkedIn</text>
+
+  <!-- Divider -->
+  <line x1="32" y1="192" x2="648" y2="192" stroke="#e8edf5" stroke-width="0.8"/>
+
+  <!-- TECH STACK section -->
+  <text x="32" y="216" font-size="10.5" font-weight="600" fill="#9ca3af" letter-spacing="0.08em">TECH STACK</text>
+
+  <!-- Card 1: Core -->
+  <rect x="32" y="226" width="148" height="80" rx="10" fill="#fff" stroke="#e0e6ef" stroke-width="0.8"/>
+  <text x="44" y="244" font-size="10" font-weight="600" fill="#9ca3af" letter-spacing="0.06em">CORE</text>
+  <rect x="44" y="250" width="46" height="18" rx="9" fill="#E6F1FB"/>
+  <text x="67" y="262" font-size="10.5" font-weight="600" fill="#0C447C" text-anchor="middle">React</text>
+  <rect x="96" y="250" width="52" height="18" rx="9" fill="#E6F1FB"/>
+  <text x="122" y="262" font-size="10.5" font-weight="600" fill="#0C447C" text-anchor="middle">Next.js</text>
+  <rect x="44" y="273" width="76" height="18" rx="9" fill="#E6F1FB"/>
+  <text x="82" y="285" font-size="10.5" font-weight="600" fill="#0C447C" text-anchor="middle">TypeScript</text>
+  <rect x="126" y="273" width="40" height="18" rx="9" fill="#f1f5f9"/>
+  <text x="146" y="285" font-size="10.5" font-weight="500" fill="#4b5563" text-anchor="middle">JS</text>
+
+  <!-- Card 2: State & Style -->
+  <rect x="190" y="226" width="148" height="80" rx="10" fill="#fff" stroke="#e0e6ef" stroke-width="0.8"/>
+  <text x="202" y="244" font-size="10" font-weight="600" fill="#9ca3af" letter-spacing="0.06em">STATE &amp; STYLE</text>
+  <rect x="202" y="250" width="46" height="18" rx="9" fill="#EEEDFE"/>
+  <text x="225" y="262" font-size="10.5" font-weight="600" fill="#3C3489" text-anchor="middle">Redux</text>
+  <rect x="254" y="250" width="58" height="18" rx="9" fill="#E1F5EE"/>
+  <text x="283" y="262" font-size="10.5" font-weight="600" fill="#085041" text-anchor="middle">Tailwind</text>
+  <rect x="202" y="273" width="60" height="18" rx="9" fill="#E1F5EE"/>
+  <text x="232" y="285" font-size="10.5" font-weight="600" fill="#085041" text-anchor="middle">Bootstrap</text>
+
+  <!-- Card 3: Tooling -->
+  <rect x="348" y="226" width="148" height="80" rx="10" fill="#fff" stroke="#e0e6ef" stroke-width="0.8"/>
+  <text x="360" y="244" font-size="10" font-weight="600" fill="#9ca3af" letter-spacing="0.06em">TOOLING</text>
+  <rect x="360" y="250" width="36" height="18" rx="9" fill="#FAEEDA"/>
+  <text x="378" y="262" font-size="10.5" font-weight="600" fill="#633806" text-anchor="middle">Git</text>
+  <rect x="402" y="250" width="54" height="18" rx="9" fill="#FAEEDA"/>
+  <text x="429" y="262" font-size="10.5" font-weight="600" fill="#633806" text-anchor="middle">GitHub</text>
+  <rect x="360" y="273" width="40" height="18" rx="9" fill="#f1f5f9"/>
+  <text x="380" y="285" font-size="10.5" font-weight="500" fill="#4b5563" text-anchor="middle">HTML</text>
+  <rect x="406" y="273" width="36" height="18" rx="9" fill="#f1f5f9"/>
+  <text x="424" y="285" font-size="10.5" font-weight="500" fill="#4b5563" text-anchor="middle">CSS</text>
+
+  <!-- Card 4: Design -->
+  <rect x="506" y="226" width="142" height="80" rx="10" fill="#fff" stroke="#e0e6ef" stroke-width="0.8"/>
+  <text x="518" y="244" font-size="10" font-weight="600" fill="#9ca3af" letter-spacing="0.06em">DESIGN</text>
+  <rect x="518" y="250" width="48" height="18" rx="9" fill="#EEEDFE"/>
+  <text x="542" y="262" font-size="10.5" font-weight="600" fill="#3C3489" text-anchor="middle">Figma</text>
+  <rect x="572" y="250" width="66" height="18" rx="9" fill="#f1f5f9"/>
+  <text x="605" y="262" font-size="10.5" font-weight="500" fill="#4b5563" text-anchor="middle">Photoshop</text>
+
+  <!-- Divider -->
+  <line x1="32" y1="324" x2="648" y2="324" stroke="#e8edf5" stroke-width="0.8"/>
+
+  <!-- Focus & Values - two cols -->
+  <text x="32" y="346" font-size="10.5" font-weight="600" fill="#9ca3af" letter-spacing="0.08em">FOCUS</text>
+  <circle cx="42" cy="361" r="3" fill="#378ADD"/>
+  <text x="52" y="365" font-size="12" fill="#4b5563">Frontend Architecture</text>
+  <circle cx="42" cy="378" r="3" fill="#378ADD"/>
+  <text x="52" y="382" font-size="12" fill="#4b5563">Design Systems</text>
+  <circle cx="42" cy="395" r="3" fill="#378ADD"/>
+  <text x="52" y="399" font-size="12" fill="#4b5563">Performance Optimization</text>
+
+  <text x="248" y="346" font-size="10.5" font-weight="600" fill="#9ca3af" letter-spacing="0.08em">VALUES</text>
+  <circle cx="258" cy="361" r="3" fill="#1D9E75"/>
+  <text x="268" y="365" font-size="12" fill="#4b5563">Clean &amp; Maintainable Code</text>
+  <circle cx="258" cy="378" r="3" fill="#1D9E75"/>
+  <text x="268" y="382" font-size="12" fill="#4b5563">Accessible Interfaces</text>
+  <circle cx="258" cy="395" r="3" fill="#1D9E75"/>
+  <text x="268" y="399" font-size="12" fill="#4b5563">User-Centered Design</text>
+
+  <!-- Quote bottom right -->
+  <text x="648" y="399" font-size="11" fill="#b0bac7" text-anchor="end" font-style="italic">"Simplicity is the mastery of complexity."</text>
+</svg>

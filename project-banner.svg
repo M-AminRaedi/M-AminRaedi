@@ -1,0 +1,47 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <rect width="680" height="220" rx="12" fill="#fff" stroke="#e0e6ef" stroke-width="0.8"/>
+  <rect x="0" y="0" width="3" height="220" rx="0" fill="#185FA5"/>
+
+  <!-- Header -->
+  <text x="24" y="38" font-size="18" font-weight="500" fill="#1a1a2e">🎮 Game 2048</text>
+  <rect x="580" y="22" width="78" height="22" rx="11" fill="#E1F5EE"/>
+  <text x="619" y="37" font-size="11" font-weight="600" fill="#085041" text-anchor="middle">Live</text>
+
+  <!-- Desc -->
+  <text x="24" y="64" font-size="13" fill="#6b7280">A modern implementation of the classic 2048 puzzle game — fully typed, tested,</text>
+  <text x="24" y="81" font-size="13" fill="#6b7280">and built on a clean React architecture with keyboard and touch controls.</text>
+
+  <!-- Stack pills -->
+  <rect x="24" y="100" width="52" height="20" rx="10" fill="#E6F1FB"/>
+  <text x="50" y="114" font-size="11" font-weight="600" fill="#0C447C" text-anchor="middle">React</text>
+  <rect x="82" y="100" width="58" height="20" rx="10" fill="#E6F1FB"/>
+  <text x="111" y="114" font-size="11" font-weight="600" fill="#0C447C" text-anchor="middle">Next.js</text>
+  <rect x="146" y="100" width="82" height="20" rx="10" fill="#E6F1FB"/>
+  <text x="187" y="114" font-size="11" font-weight="600" fill="#0C447C" text-anchor="middle">TypeScript</text>
+  <rect x="234" y="100" width="36" height="20" rx="10" fill="#E1F5EE"/>
+  <text x="252" y="114" font-size="11" font-weight="600" fill="#085041" text-anchor="middle">CSS</text>
+  <rect x="276" y="100" width="36" height="20" rx="10" fill="#FAEEDA"/>
+  <text x="294" y="114" font-size="11" font-weight="600" fill="#633806" text-anchor="middle">Jest</text>
+
+  <!-- Divider -->
+  <line x1="24" y1="136" x2="656" y2="136" stroke="#e8edf5" stroke-width="0.8"/>
+
+  <!-- Features -->
+  <circle cx="34" cy="156" r="3" fill="#378ADD"/>
+  <text x="44" y="160" font-size="12" fill="#4b5563">Responsive design</text>
+  <circle cx="34" cy="173" r="3" fill="#378ADD"/>
+  <text x="44" y="177" font-size="12" fill="#4b5563">Keyboard &amp; touch controls</text>
+  <circle cx="34" cy="190" r="3" fill="#378ADD"/>
+  <text x="44" y="194" font-size="12" fill="#4b5563">Smooth animations</text>
+
+  <circle cx="230" cy="156" r="3" fill="#1D9E75"/>
+  <text x="240" y="160" font-size="12" fill="#4b5563">Fully typed with TypeScript</text>
+  <circle cx="230" cy="173" r="3" fill="#1D9E75"/>
+  <text x="240" y="177" font-size="12" fill="#4b5563">Unit &amp; integration tested</text>
+  <circle cx="230" cy="190" r="3" fill="#1D9E75"/>
+  <text x="240" y="194" font-size="12" fill="#4b5563">Clean, scalable architecture</text>
+
+  <!-- Play button -->
+  <rect x="490" y="148" width="162" height="44" rx="9" fill="#185FA5"/>
+  <text x="571" y="175" font-size="13.5" font-weight="600" fill="#fff" text-anchor="middle">▶  Play the Game</text>
+</svg>
