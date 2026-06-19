@@ -74,6 +74,54 @@ I enjoy transforming complex requirements into intuitive user experiences while 
 ---
 
 ## 🎮 Game 2048
+## 🎮 Game 2048
+
+A modern implementation of the classic 2048 puzzle game built with a modern frontend stack.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2048%20Game-orange?style=for-the-badge&logo=gamejolt&logoColor=white" />
+</p>
+
+---
+
+### 🧩 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,css" />
+</p>
+
+---
+
+### 🧪 Testing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,testinglibrary" />
+</p>
+
+---
+
+### 🚀 Play the Game
+
+<p align="center">
+  <a href="https://game-2048-three-lilac.vercel.app/">
+    <img src="https://img.shields.io/badge/▶%20Click%20to%20Play%20Game-000000?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  👉 Click the button above to launch the game instantly
+</p>
+
+---
+
+#### Features
+
+* Responsive design for desktop and mobile
+* Keyboard and touch controls
+* Smooth animations
+* State management with React
+* Fully typed with TypeScript
+* Clean architecture and scalable structure
 
 A modern implementation of the classic 2048 puzzle game built with React, Next.js, and TypeScript.
 
