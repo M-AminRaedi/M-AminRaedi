@@ -1,169 +1,87 @@
 <div align="center">
 
+<sub>Frontend Developer</sub>
+
 # Mohammad Amin Raedi
 
-### Frontend Developer • React • Next.js • TypeScript
+Building scalable web applications, performant user interfaces,<br>and maintainable frontend architectures.
 
-Building scalable web applications, performant user interfaces, and maintainable frontend architectures.
+**React · Next.js · TypeScript**
 
 <p>
-  <a href="https://aminraedi.ir">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/m-aminreadi">💼 LinkedIn</a>
+  <a href="https://aminraedi.ir">
+    <img src="https://img.shields.io/badge/Portfolio-aminraedi.ir-0066CC?style=flat-square&logo=safari&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/m-aminreadi">
+    <img src="https://img.shields.io/badge/LinkedIn-m--aminreadi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-##  About Me
+## Tech Stack
 
-Frontend Developer passionate about building scalable, maintainable, and high-performance web applications.
-
-I enjoy transforming complex requirements into intuitive user experiences while maintaining clean codebases and sustainable frontend architectures. My focus is building modern web apps with strong performance, accessibility, and great UX.
-
----
-
-## 🛠 Tech Stack
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux" />
-</p>
-
-### Styling & UI
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</p>
-
-### Version Control
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
-</p>
-
-### Design Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
+| Layer | Technologies |
+|---|---|
+| **Core** | React · Next.js · TypeScript · JavaScript |
+| **State & Style** | Redux · Tailwind CSS · Bootstrap |
+| **Tooling** | Git · GitHub · HTML · CSS |
+| **Design** | Figma · Photoshop |
 
 ---
 
-##  Current Focus
+## Current Focus
 
-* Frontend Architecture
-* Design Systems
-* Performance Optimization
-* React & Next.js Ecosystem
-* Developer Experience (DX)
-* Modern Web Standards
+```
+Frontend Architecture     ·  Design Systems
+Performance Optimization  ·  React & Next.js Ecosystem
+Developer Experience      ·  Modern Web Standards
+```
 
 ---
 
-##  What I Care About
+## What I Care About
 
-* Clean & Maintainable Code
-* Scalable Frontend Architecture
-* Performance-First Development
-* Accessible User Interfaces
-* Continuous Learning & Improvement
-* User-Centered Design
+- Clean & maintainable code that teams can sustain
+- Scalable frontend architecture that grows with the product
+- Performance-first development with real user impact
+- Accessible interfaces for everyone
+- User-centered design thinking
 
 ---
 
 ## 🎮 Game 2048
-## 🎮 Game 2048
 
-A modern implementation of the classic 2048 puzzle game built with a modern frontend stack.
+> A modern implementation of the classic 2048 puzzle game — fully typed, tested, and built on a clean React architecture.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/2048%20Game-orange?style=for-the-badge&logo=gamejolt&logoColor=white" />
-</p>
+**Stack:** React · Next.js · TypeScript · CSS · Jest · Testing Library
 
----
-
-### 🧩 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,css" />
-</p>
-
----
-
-### 🧪 Testing
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,testinglibrary" />
-</p>
-
----
-
-### 🚀 Play the Game
+**Features:**
+- Responsive design for desktop and mobile
+- Keyboard and touch controls
+- Smooth tile animations
+- Fully typed with TypeScript
+- Unit and integration tests
 
 <p align="center">
   <a href="https://game-2048-three-lilac.vercel.app/">
-    <img src="https://img.shields.io/badge/▶%20Click%20to%20Play%20Game-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/▶%20Play%20the%20Game-000000?style=for-the-badge&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  👉 Click the button above to launch the game instantly
 </p>
 
 ---
 
-#### Features
+## Connect
 
-* Responsive design for desktop and mobile
-* Keyboard and touch controls
-* Smooth animations
-* State management with React
-* Fully typed with TypeScript
-* Clean architecture and scalable structure
-
-A modern implementation of the classic 2048 puzzle game built with React, Next.js, and TypeScript.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/2048%20Game-orange?style=for-the-badge&logo=gamejolt&logoColor=white" />
-</p>
-
-### 🚀 Play the Game
-
-<p align="center">
-  <a href="https://game-2048-three-lilac.vercel.app/">
-    <img src="https://img.shields.io/badge/▶%20Click%20Here%20to%20Play-000000?style=for-the-badge" />
-  </a>
-</p>
-
-<p align="center">
-  👉 Click the button above to launch and play instantly
-</p>
-
-#### Features
-
-* Responsive design for desktop and mobile
-* Keyboard and touch controls
-* Smooth tile animations
-* Modern React architecture
-* TypeScript support
-* Clean and maintainable codebase
-
----
-
-## Connect With Me
-
-🌐 Portfolio: **https://aminraedi.ir**
-
-💼 LinkedIn: **https://linkedin.com/in/m-aminreadi**
-
-📧 Open to collaboration, frontend opportunities, and interesting projects.
+🌐 **Portfolio** — [aminraedi.ir](https://aminraedi.ir)
+💼 **LinkedIn** — [linkedin.com/in/m-aminreadi](https://linkedin.com/in/m-aminreadi)
+📬 Open to collaboration, frontend opportunities, and interesting projects.
 
 ---
 
 <div align="center">
-
-*"Simplicity is not the absence of complexity, it's the mastery of it."*
-
+  <sub><i>"Simplicity is not the absence of complexity — it's the mastery of it."</i></sub>
 </div>
