@@ -15,11 +15,11 @@ Building scalable web applications, performant user interfaces, and maintainable
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Frontend Developer passionate about building scalable, maintainable, and high-performance web applications.
 
-I enjoy transforming complex requirements into intuitive user experiences while maintaining clean codebases and sustainable frontend architectures. My primary focus is creating modern web applications that balance performance, accessibility, and developer experience.
+I enjoy transforming complex requirements into intuitive user experiences while maintaining clean codebases and sustainable frontend architectures. My focus is building modern web apps with strong performance, accessibility, and great UX.
 
 ---
 
@@ -37,7 +37,7 @@ I enjoy transforming complex requirements into intuitive user experiences while 
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
-### Version Control & Collaboration
+### Version Control
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github" />
@@ -51,7 +51,7 @@ I enjoy transforming complex requirements into intuitive user experiences while 
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 * Frontend Architecture
 * Design Systems
@@ -62,7 +62,7 @@ I enjoy transforming complex requirements into intuitive user experiences while 
 
 ---
 
-## 💡 What I Care About
+##  What I Care About
 
 * Clean & Maintainable Code
 * Scalable Frontend Architecture
@@ -78,7 +78,19 @@ I enjoy transforming complex requirements into intuitive user experiences while 
 A modern implementation of the classic 2048 puzzle game built with React, Next.js, and TypeScript.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/2048-Game-orange?style=for-the-badge&logo=gamejolt&logoColor=white" />
+  <img src="https://img.shields.io/badge/2048%20Game-orange?style=for-the-badge&logo=gamejolt&logoColor=white" />
+</p>
+
+### 🚀 Play the Game
+
+<p align="center">
+  <a href="https://game-2048-three-lilac.vercel.app/">
+    <img src="https://img.shields.io/badge/▶%20Click%20Here%20to%20Play-000000?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  👉 Click the button above to launch and play instantly
 </p>
 
 #### Features
@@ -90,29 +102,9 @@ A modern implementation of the classic 2048 puzzle game built with React, Next.j
 * TypeScript support
 * Clean and maintainable codebase
 
-#### Built With
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts" />
-</p>
-
-<p align="center">
-  <a href="YOUR_VERCEL_URL">
-    <img src="https://img.shields.io/badge/🎮%20Launch%20Game-28a745?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/M-AminRaedi/Game-2048">
-    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Play the game live by clicking the Launch Game button.</b>
-</p>
-
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 🌐 Portfolio: **https://aminraedi.ir**
 
