@@ -73,11 +73,13 @@ I enjoy transforming complex requirements into intuitive user experiences while 
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Game 2048
 
-### 🎮 Game 2048
+A modern implementation of the classic 2048 puzzle game built with React, Next.js, and TypeScript.
 
-A modern implementation of the classic 2048 game built with React, Next.js, and TypeScript.
+<p align="center">
+  <img src="https://img.shields.io/badge/2048-Game-orange?style=for-the-badge&logo=gamejolt&logoColor=white" />
+</p>
 
 #### Features
 
@@ -88,30 +90,24 @@ A modern implementation of the classic 2048 game built with React, Next.js, and 
 * TypeScript support
 * Clean and maintainable codebase
 
-#### Tech Stack
+#### Built With
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts" />
 </p>
 
-<p>
+<p align="center">
   <a href="YOUR_VERCEL_URL">
-    <img src="https://img.shields.io/badge/🎮%20Play%20Live-000000?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎮%20Launch%20Game-28a745?style=for-the-badge" />
   </a>
+  &nbsp;
   <a href="https://github.com/M-AminRaedi/Game-2048">
-    <img src="https://img.shields.io/badge/📂%20Source%20Code-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/📂%20Repository-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-> Click the **Play Live** button to launch and play the game instantly.
-
----
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M-AminRaedi&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-AminRaedi&layout=compact&hide_border=true" />
+  <b>Play the game live by clicking the Launch Game button.</b>
 </p>
 
 ---
